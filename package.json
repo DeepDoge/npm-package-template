@@ -1,0 +1,15 @@
+{
+    "type": "module",
+    "name": "project-name",
+    "version": "1.0.0",
+    "description": "...",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/xxxx.git"
+    },
+    "bugs": {
+      "url": "https://github.com/xxxx/issues"
+    },
+    "homepage": "https://github.com/xxxx#readme",
+    "devDependencies": {}
+  }
