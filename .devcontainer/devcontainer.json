@@ -7,7 +7,6 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"GitHub.copilot",
 				"GitHub.vscode-pull-request-github",
 				"eamodio.gitlens",
 				"heltonricardo.heltonricardo-vscode-organize-and-format",
